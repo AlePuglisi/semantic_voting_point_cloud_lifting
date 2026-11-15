@@ -12,7 +12,7 @@ This module provides functionality for preprocessing 3D point clouds with semant
 ## Usage
 
 ```bash
-python ply_preprocessing.py --dataset_path /path/to/dataset --algorithm corr --output_ply_name points3D_corr.ply
+python ply_processing.py --dataset_path /path/to/dataset --algorithm corr --output_ply_name points3D_corr.ply
 ```
 
 ### Command Line Arguments

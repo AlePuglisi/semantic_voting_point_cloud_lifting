@@ -66,7 +66,7 @@ project/
 ## Quick Usage 
 
 ```bash
-python ply_preprocessing.py --project_path /<path/to/project> --algorithm <voting_strategy> --output_ply_name <path/to/output.ply>
+python ply_processing.py --project_path /<path/to/project> --algorithm <voting_strategy> --output_ply_name <path/to/output.ply>
 ```
 
 ### Command Line Arguments
